@@ -1,9 +1,7 @@
 # Microsoft 365 / Entra Helpdesk Lab
 
-## Quick Proof (Screenshots)
-![User Created](screenshots/01-user-created.png)
-![Password Reset](screenshots/02-password-reset.png)
-![Block Sign-In](screenshots/03-block-signin.png)
+
+
 
 ## Overview
 This lab demonstrates common Tier-1 helpdesk tasks performed in Microsoft 365 / Entra ID.
@@ -25,7 +23,7 @@ Example user:
 - jsmith@m365practice01.onmicrosoft.com
 
 Screenshot:
-![User Created](screenshots/01-user-created.png)
+![User Created] <img width="1165" height="777" alt="01-user-created" src="https://github.com/user-attachments/assets/8723bef6-6dc4-4ed3-83fc-db2553effd7e" />
 
 ---
 
@@ -33,7 +31,8 @@ Screenshot:
 Simulated a common helpdesk task by resetting the user's password.
 
 Screenshot:
-![Password Reset](screenshots/02-password-reset.png)
+![Password Reset] <img width="943" height="788" alt="02-password-reset" src="https://github.com/user-attachments/assets/935af2cf-c352-44be-b945-a07c50ec53d6" />
+
 
 ---
 
@@ -43,7 +42,8 @@ Simulated disabling a compromised user account.
 This is a common Tier-1 helpdesk action when a user account is suspected of being compromised or when access must be temporarily revoked.
 
 Screenshot:
-![Block Sign In](screenshots/03-block-signin.png)
+![Block Sign In]  <img width="942" height="789" alt="03-block-signin" src="https://github.com/user-attachments/assets/131cd5a3-9659-4d0b-8a34-46e00a2125ad" />  
+
 
 ---
 
@@ -55,3 +55,9 @@ Screenshot:
 - Tier-1 helpdesk workflow
 
 ## Repository Structure
+
+
+
+
+
+
